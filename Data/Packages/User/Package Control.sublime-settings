@@ -1,0 +1,44 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"Nil-Theme",
+		"Package Control",
+		"phpfmt",
+		"PyV8",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"Tag",
+		"Theme - Brogrammer",
+		"Theme - Centurion",
+		"Theme - Glacier",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"Trimmer",
+		"ZZZ"
+	]
+}

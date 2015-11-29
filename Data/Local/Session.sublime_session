@@ -1,0 +1,378 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3095,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ad",
+						"addClass	.addClass()"
+					],
+					[
+						"f",
+						"false"
+					],
+					[
+						"scrip",
+						"script	<script>"
+					],
+					[
+						"high",
+						"highlight"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"bra",
+						"brackethighlighter"
+					],
+					[
+						"hig",
+						"highlight"
+					],
+					[
+						"htm",
+						"html5	Simple HTML5 Boilerplate"
+					],
+					[
+						"e",
+						"echo	echo \"…\""
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/chenc/.ssh/id_rsa",
+					"settings":
+					{
+						"buffer_size": 1675,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "inst",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/chenc/.ssh/id_rsa.pub",
+				"/C/Program Files/Sublime Text 3/README.md",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/trailing_spaces.sublime-settings",
+				"//gateway.yeethink.com/陈灿/开发学习/网站练习/将图像作为链接.html",
+				"/C/Users/chenc/Desktop/123.js",
+				"//gateway.yeethink.com/陈灿/开发学习/网站练习/创建超级链接.html",
+				"/C/Users/chenc/Documents/Tencent Files/All Users/Registry.db",
+				"//gateway.yeethink.com/陈灿/开发学习/网站练习/php.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"//gateway.yeethink.com/陈灿/开发学习/sublime/插件配置/brakethighlight/glacier.tmTheme",
+				"/C/Users/chenc/Desktop/brogrammer.tmTheme",
+				"/C/Users/chenc/Desktop/glacier.tmTheme",
+				"/C/Program Files/Sublime Text 3/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Users/chenc/Desktop/WP8 SDK Tools Lite Setup Av1.0/glacier.tmTheme",
+				"/C/Users/chenc/Desktop/index.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/BracketHighlighter/Example.sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/phpfmt/phpfmt.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/phpfmt/Default.sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Alignment/Base File.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Trimmer/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"bracket_styles",
+					"style"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/chenc/.ssh/id_rsa",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1675,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										713,
+										713
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,1,-32000,-32000,-1,-1,755,141,156,843",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
